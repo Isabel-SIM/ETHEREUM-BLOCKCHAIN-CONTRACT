@@ -50,8 +50,8 @@ Contract Withdraw: <br>
 (https://github.com/Isabel-SIM/WEEK-TWENTY-HOMEWORK/blob/main/Images/6.6.png) <br>
 
 
-Insufficient funds!  <br>
+Insufficient funds! statement: <br>
 ![IF](https://github.com/Isabel-SIM/WEEK-TWENTY-HOMEWORK/blob/main/Images/7.png) <br>
 
-You don't own this account!  <br>
+You don't own this account! statement: <br>
 ![YDOTA](https://github.com/Isabel-SIM/WEEK-TWENTY-HOMEWORK/blob/main/Images/7.png) <br>
