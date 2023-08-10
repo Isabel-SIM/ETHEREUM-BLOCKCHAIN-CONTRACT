@@ -35,7 +35,7 @@ Note: Ensure familiarity with ether and wei conversions. You can utilise tools l
 
 ![MAIN PAGE](https://github.com/Isabel-SIM/WEEK-TWENTY-HOMEWORK/blob/main/Images/1.png) <br>
 <br>
-Contract Interaction: <br>
+Contract Deposit: <br>
 (https://github.com/Isabel-SIM/WEEK-TWENTY-HOMEWORK/blob/main/Images/2.png) <br>
 (https://github.com/Isabel-SIM/WEEK-TWENTY-HOMEWORK/blob/main/Images/2.2.png) <br>
 (https://github.com/Isabel-SIM/WEEK-TWENTY-HOMEWORK/blob/main/Images/3.png) <br>
@@ -43,3 +43,15 @@ Contract Interaction: <br>
 (https://github.com/Isabel-SIM/WEEK-TWENTY-HOMEWORK/blob/main/Images/4.png) <br>
 (https://github.com/Isabel-SIM/WEEK-TWENTY-HOMEWORK/blob/main/Images/4.4.png) <br>
 
+Contract Withdraw: <br>
+(https://github.com/Isabel-SIM/WEEK-TWENTY-HOMEWORK/blob/main/Images/5.png) <br>
+(https://github.com/Isabel-SIM/WEEK-TWENTY-HOMEWORK/blob/main/Images/5.5.png) <br>
+(https://github.com/Isabel-SIM/WEEK-TWENTY-HOMEWORK/blob/main/Images/6.png) <br>
+(https://github.com/Isabel-SIM/WEEK-TWENTY-HOMEWORK/blob/main/Images/6.6.png) <br>
+
+
+Insufficient funds!  <br>
+![IF](https://github.com/Isabel-SIM/WEEK-TWENTY-HOMEWORK/blob/main/Images/7.png) <br>
+
+You don't own this account!  <br>
+![YDOTA](https://github.com/Isabel-SIM/WEEK-TWENTY-HOMEWORK/blob/main/Images/7.png) <br>
