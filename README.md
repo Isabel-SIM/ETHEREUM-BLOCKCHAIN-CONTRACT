@@ -19,7 +19,7 @@ Our fintech initiative is leveraging a cross-border, Ethereum-compatible blockch
      
 2. Compilation and Deployment
    - Compile the contract in Remix IDE.
-   - Navigate to “Deploy & Run Transactions” and select “JavaScript VM” as the environment.
+   - Navigate to “Deploy & Run Transactions” and select “REMIX VM London” as the environment.
    - Click on "Deploy" to initiate the contract on the blockchain.
 
 3. Contract Interaction
